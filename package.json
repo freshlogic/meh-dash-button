@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "nightmare": "1.8.x",
+        "node-dash-button": "0.0.x",
+        "pcap": "2.0.x"
+    }
+}
